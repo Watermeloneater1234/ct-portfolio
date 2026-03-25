@@ -6,6 +6,10 @@ body {
     padding: 0;
 }
 
+.myproject-page {
+        background: linear-gradient(135deg, #342777 0%, #592075 45%, #331a3f 100%);
+}
+
 .page-layout {
     max-width: 1200px;
     margin: 0 auto;
@@ -95,4 +99,8 @@ header {
     background: lightgray;
     object-fit: cover;
     border-radius: 10px;
+}
+
+.page {
+  background-color: rgb(44, 112, 171);
 }
