@@ -104,3 +104,8 @@ header {
 .page {
   background-color: rgb(44, 112, 171);
 }
+
+a{
+Text decoration: none;
+Color: white;
+}
