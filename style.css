@@ -130,3 +130,12 @@ img {
 img {
     border-radius: 20px;
 }
+
+.imagetext {
+    display: flex;
+    flex-direction: row;
+}
+
+    {
+    .text max-width: 400px;
+}
