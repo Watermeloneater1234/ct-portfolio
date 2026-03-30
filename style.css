@@ -123,8 +123,10 @@ img {
 
 .image-container2 {
     display: flex;
-    gap: 100px;
+    gap: 500px;
     flex-wrap: wrap;
+    width: 300px;
+    height: 300px;
 }
 
 img {
@@ -134,8 +136,4 @@ img {
 .imagetext {
     display: flex;
     flex-direction: row;
-}
-
-    {
-    .text max-width: 400px;
 }
